@@ -1,21 +1,21 @@
-Challenge_3
-===========
+# Largest Prime Factor
 
-Largest Prime Factor
-
-    From Project Euler Problem 3
+##Challenge 3
 
 
-The prime factors of 13195 are 5, 7, 13 and 29.
+**The Exercise**
 
-What is the largest prime factor of the number **600851475143** ?
 
-**console.log** each prime number on it's own line.
+## Getting Started
+1. Fork this repository and clone it from your personal GitHub Account
+1. In the Terminal, navigate to the newly created folder for this repository
+1. Install dependencies by running the command: `npm install`
+1. Run tests by running the command: `npm test`
+1. Your work will be one in the file named: `largestPrimeFactor.js`
+1. Make your tests pass!
 
-There are **2** tests, make the tests pass.
+## Caveats
 
-(you'll need jasmine-node)
-    npm install jasmine-node -g
+### references
 
-run automated tests by running
-    jasmine-node --autotest .
+### _From Project Euler Problem 3_
