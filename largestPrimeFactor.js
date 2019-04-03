@@ -1,5 +1,5 @@
-exports.largestPrimeFactor = function(n){
-  var primeNumber = 0;
+exports.largestPrimeFactor = function(n) {
+  let primeNumber = 0;
   // do your work here
 
   return primeNumber;
